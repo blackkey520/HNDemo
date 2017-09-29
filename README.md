@@ -1,4 +1,4 @@
-# HNDemo 
+# HNDemo
 
 
 ## 环境安装
@@ -13,6 +13,12 @@
 - React Native Tools
 - React Native/React/Redux snippets for es6/es7
 - Terminal
+- npm
+- Debugger for chrome
+- Document This
+- JavaScript Atom Grammar
+- Path Intellisense
+- Beautify
 
 以后再发现好的插件还是会在这里更新
 
@@ -34,12 +40,7 @@ cd .\HNDemo
 ```bash
 npm install
 ```
-
-- 依赖连接
-```bash
-react-native link
-```
-
+ 
 -使用Android Studio 打开 ./HNDemo/Android目录，同步Gradlew，安装Android Native 依赖
 ## 项目运行、调试
 
